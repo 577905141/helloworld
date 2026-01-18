@@ -4,7 +4,7 @@ This is project designed to demostrate how to use python, github, vs code to cre
 
 ## Instructions for Build and Use
 
-[Software Demo](Put_Your_Video_Link_Here)
+The demo for hello world program https://www.youtube.com/watch?v=bPOpaNemhm4
 
 Steps to build and/or run the software:
 
@@ -14,9 +14,9 @@ Steps to build and/or run the software:
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. open vs code
+2.find the play button at the top right conor of the hello.py
+3.hit the button and the terminal will display hello world shortly
 
 ## Development Environment
 
